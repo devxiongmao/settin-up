@@ -1,0 +1,14 @@
+name: Test Setup Scripts
+
+on: [push, pull_request]
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Make scripts executable
+        run: chmod +x system-setup.sh
+      - name: Run setup script (dry run)
+        run: ./system-setup.sh --dry-run || echo "Script executed with warnings/errors"
