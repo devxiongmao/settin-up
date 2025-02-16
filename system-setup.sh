@@ -40,3 +40,6 @@ cp -f ./config/.aliases ~/.aliases
 
 # shellcheck source=/dev/null
 source "$HOME/.zshrc"
+
+###### VS Code Config
+./config/vscode.sh

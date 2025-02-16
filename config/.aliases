@@ -1,6 +1,8 @@
 # Git shortcuts
 alias gs="git status"
 alias gc="git commit -m"
+alias gaa="git add -A"
+alias gco="git checkout"
 alias gda="git branch | grep -v 'main' | xargs git branch -D"
 
 # Docker shortcuts
