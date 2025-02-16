@@ -20,8 +20,4 @@ git config --global core.editor vim
 # Instal Xcode
 xcode-select --install
 
-brew install --cask bitwarden
-brew install --cask discord
-brew install --cask docker
-brew install --cask iterm2
-brew install --cask visual-studio-code
+brew bundle
