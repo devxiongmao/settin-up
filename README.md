@@ -42,6 +42,13 @@ ZSH Plugins
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting.git)
 - [TheF*ck](https://github.com/nvbn/thefuck) (Ridiculously crude name aside, exceptionally helpful plugin)
 
+Aliases
+* git
+  * `gs` = "git status"
+  * `gc` = "git commit -m"
+  * `gda` = "git branch | grep -v 'main' | xargs git branch -D"
+* docker
+  * `dpsa` = "docker ps -a"
 
 ## Screenshots:
 

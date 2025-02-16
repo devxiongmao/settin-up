@@ -1,0 +1,7 @@
+# Git shortcuts
+alias gs="git status"
+alias gc="git commit -m"
+alias gda="git branch | grep -v 'main' | xargs git branch -D"
+
+# Docker shortcuts
+alias dpsa="docker ps -a"
