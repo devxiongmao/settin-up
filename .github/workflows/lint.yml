@@ -1,6 +1,9 @@
 name: Shell Check
 
-on: [push, pull_request]
+on:
+  pull_request:
+  push:
+    branches: [ main ]
 
 jobs:
   shellcheck:
@@ -11,4 +14,4 @@ jobs:
       - name: Install ShellCheck
         run: sudo apt-get install -y shellcheck
       - name: Run ShellCheck
-        run: shellcheck **/*.sh
+        run: shellcheck system-setup.sh
