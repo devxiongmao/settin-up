@@ -26,6 +26,15 @@ cd settin-up
 2. Follow the setup wizard to customize your terminal
 3. If the setup wizard doesn't appear, run `p10k configure`
 
+## Setting the Theme
+I've included two terminal themes within this repo: `trafalgar` and `devxiongmao`. Screenshots are below. They can be set as follows
+
+1. In the iTerm2 menu bar, go `Profiles` -> `Open Profiles` -> `Edit Profiles`
+2. On the `Profiles` tab, select `Colors`, then  at the bottom of the pane, open the select that is labelled `Color Presets`
+3. Click `Import`, then navigate to this directory and import either the `trafalgar.itermcolors` or `devxiongmao.itermcolors` file depending on your preference
+4. Once imported, open the `Color Presents` selector again, and you should see the theme present. Click it to select it.
+5. Admire your handiwork and marvel at your beautiful terminal
+
 ## What's Included?
 
 App installs
