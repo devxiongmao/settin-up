@@ -20,6 +20,9 @@ brew "rbenv"
 # So `ruby install` works
 brew "ruby-build"
 
+# Command correction
+brew "thefuck"
+
 # Cask applications (GUI apps)
 cask "bitwarden"
 cask "discord"
