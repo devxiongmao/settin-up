@@ -46,7 +46,7 @@ ZSH Plugins
 ## Screenshots:
 
 Theme 1: `trafalgar`
-![Trafalgar Theme](config/itermcolours/trafalgar.png)
+![Trafalgar Theme](config/itermcolors/trafalgar.png)
 
 Theme 2: `devxiongmao`
-![Dev Xiong Mao Theme](config/itermcolours/devxiongmao.png)
+![Dev Xiong Mao Theme](config/itermcolors/devxiongmao.png)
