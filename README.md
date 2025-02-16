@@ -2,6 +2,15 @@
 
  This repo is used to set up my Mac. Ideally this should be run in [iTerm2](https://iterm2.com/downloads.html)
 
+ I use either VS Code, or Vim for development. This repo configures both the way I like it. I primarily do development with:
+ - Ruby
+ - Python
+ - Javscript/Typescript
+ - Shell
+ - Go
+ 
+ The plugins, dotfiles, formulae, etc contained in this repo and meant to enhance your efficiency when developing using these languages. 
+
 ## Easy as 1... 2... 3. That's how easy!
 
 If you are not Devxiongmao (Jon Psaila), be sure to update the system-setup.sh file with your git config information.
@@ -46,6 +55,8 @@ Aliases
 * git
   * `gs` = "git status"
   * `gc` = "git commit -m"
+  * `gaa` = "git add -A"
+  * `gco` = "git checkout"
   * `gda` = "git branch | grep -v 'main' | xargs git branch -D"
 * docker
   * `dpsa` = "docker ps -a"
