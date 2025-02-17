@@ -7,3 +7,4 @@ alias gda="git branch | grep -v 'main' | xargs git branch -D"
 
 # Docker shortcuts
 alias dpsa="docker ps -a"
+alias dda="docker rm $(docker ps -aq)"
