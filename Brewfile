@@ -5,6 +5,9 @@ brew "update"
 brew "vim"
 brew "zsh"
 
+# App deployment utilities
+brew "flyctl" # Fly.io deployment for power-flow-analysis app
+
 # A better ack/grep
 brew "the_silver_searcher"
 
