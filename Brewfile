@@ -7,6 +7,7 @@ brew "zsh"
 
 # App deployment utilities
 brew "flyctl" # Fly.io deployment for power-flow-analysis app
+brew "render" # Render CLI for truckin' along app
 
 # A better ack/grep
 brew "the_silver_searcher"
