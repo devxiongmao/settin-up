@@ -69,6 +69,18 @@ Aliases
   * `gda` = "git branch | grep -v 'main' | xargs git branch -D"
 * docker
   * `dpsa` = "docker ps -a"
+  * `dda` = "docker rm $(docker ps -aq)"
+
+VS Code Extensions
+* Ruby
+  * [castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
+  * [kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
+  * [bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)
+  * [rebornix.Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+* Javascript
+* Typescript
+* Go
+* Python
 
 ## Screenshots:
 
