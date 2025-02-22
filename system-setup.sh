@@ -1,10 +1,7 @@
 #!/bin/bash
 
-git config --global user.name "Jon Psaila"
-git config --global user.email jonathan_psaila@outlook.com
-git config --global github.user "devxiongmao"
-
-git config --global core.editor vim
+###### Git Config
+./config/git_config.sh
 
 ####### Homebrew Install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

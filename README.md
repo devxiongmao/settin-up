@@ -46,7 +46,7 @@ App installs
 - [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 
 Command Line Tools
-- Git configuration
+- [Git configuration](config/git_config.sh)
 - [The silver searcher](https://github.com/ggreer/the_silver_searcher),  a lighting fast code searching tool similar to `ack`
 - [tmux](https://thoughtbot.com/blog/a-tmux-crash-course) for session management
 
