@@ -61,15 +61,48 @@ ZSH Plugins
 - [TheF*ck](https://github.com/nvbn/thefuck) (Ridiculously crude name aside, exceptionally helpful plugin)
 
 Aliases
+* Sourcing
+  * `zr` = "source ~/.zshrc"
+* Unix
+  * `la` = "ls -la"
+  * `ln` = "ln -v"
+* PS
+  * `psa` = "ps aux"
+  * `psag` = "ps aux | ag "
 * git
-  * `gs` = "git status"
+  * `g` = "git"
+  * `ga` = "git add"
+  * `gs` = 'git status -s'
   * `gc` = "git commit -m"
   * `gaa` = "git add -A"
+  * `gb` = 'git branch'
   * `gco` = "git checkout"
+  * `gnb` = 'git checkout -b'
   * `gda` = "git branch | grep -v 'main' | xargs git branch -D"
+  * `gbd` = "git branch -D"
+  * `gr` = 'git rebase'
+  * `gri` = 'git rebase -i'
+  * `gra` = 'git rebase --abort'
+  * `grc` = 'git rebase --continue'
+  * `gd` = 'git diff'
+  * `gl` = 'git log -10'
 * docker
   * `dpsa` = "docker ps -a"
   * `dda` = "docker rm $(docker ps -aq)"
+* Ruby/Rails
+  * `c` = "rails console"
+  * `s` = "rspec"
+* Bundler
+  * `b` = "bundle"
+  * `be` = "bundle exec"
+  * `bi` = "bundle install"
+* Python
+  * `pv` = "python3 --version"
+  * `pc` = "python3"
+  * `poa` = "poetry add"
+* tmux
+  * `tat` = 'tmux attach -t'
+  * `tns` = 'tmux new -s'
 
 VS Code Extensions
 * Ruby
