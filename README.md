@@ -13,7 +13,7 @@
 
 ## Easy as 1... 2... 3. That's how easy!
 
-If you are not Devxiongmao (Jon Psaila), be sure to update the system-setup.sh file with your git config information.
+If you are not Devxiongmao (Jon Psaila), be sure to update the config/git_config.sh file with your git config information.
 
 ```sh
 git clone https://github.com/devxiongmao/settin-up.git
@@ -38,7 +38,7 @@ I've included two terminal themes within this repo: `trafalgar` and `devxiongmao
 ## What's Included?
 
 App installs
-- [bitwarden](https://bitwarden.com/) password manager
+- [bitwarden](https://bitwarden.com/)
 - [discord](https://discord.com/)
 - [docker](https://www.docker.com/)
 - [iterm2](https://iterm2.com/downloads.html)
@@ -105,16 +105,26 @@ Aliases
   * `tat` = 'tmux attach -t'
   * `tns` = 'tmux new -s'
 
-VS Code Extensions
-* Ruby
-  * [castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
-  * [kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
-  * [bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)
-  * [rebornix.Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
-* Javascript
-* Typescript
-* Go
-* Python
+## VS Code Extensions
+
+### Ruby
+- **[castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)** – Provides Ruby language server support, including code completion, linting, and inline documentation.  
+- **[kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)** – Automatically inserts `end` statements in Ruby when writing conditionals, loops, and method definitions.  
+- **[bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)** – Enhances Rails development in VS Code with navigation, model completion, and schema support.  
+- **[rebornix.Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)** – Provides basic Ruby language support, including syntax highlighting and debugging.  
+
+### JavaScript
+- **[dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** – Integrates ESLint into VS Code for JavaScript and TypeScript linting and error detection.  
+- **[esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** – Formats JavaScript, TypeScript, and other files using Prettier to enforce consistent code style.  
+
+### Python
+- **[ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** – Official Python extension providing IntelliSense, debugging, linting, and Jupyter Notebook support.  
+- **[njpwerner.autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)** – Generates Python docstrings automatically based on function signatures.  
+- **[tamasfe.even-better-toml](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)** – Adds advanced syntax highlighting and validation for TOML configuration files.  
+- **[ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** – Enables Jupyter Notebook support, allowing interactive Python development within VS Code.  
+- **[KevinRose.vsc-python-indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)** – Fixes indentation issues in Python, particularly when working with VS Code’s auto-formatting.  
+- **[charliermarsh.ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)** – Integrates Ruff, a fast Python linter, to catch errors and enforce coding standards.  
+
 
 ## Screenshots:
 
