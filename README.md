@@ -43,6 +43,7 @@ App installs
 - [docker](https://www.docker.com/)
 - [iterm2](https://iterm2.com/downloads.html)
 - [visual-studio-code](https://code.visualstudio.com/)
+- [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 
 Command Line Tools
 - Git configuration
