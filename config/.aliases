@@ -4,16 +4,10 @@ alias zr='source ~/.zshrc'
 # Unix
 alias la='ls -la'
 alias ln='ln -v'
-alias mkdir='mkdir -p'
 
 # PS
 alias psa="ps aux"
 alias psag="ps aux | ag "
-
-# Bundler
-alias b="bundle"
-alias be="bundle exec"
-alias bi="bundle install"
 
 # Git shortcuts
 alias g="git"
@@ -40,6 +34,11 @@ alias dda="docker rm $(docker ps -aq)"
 # Ruby/Rails
 alias c="rails console"
 alias s="rspec"
+
+# Bundler
+alias b="bundle"
+alias be="bundle exec"
+alias bi="bundle install"
 
 # Python
 alias pv="python3 --version"
