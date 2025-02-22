@@ -1,11 +1,51 @@
+# Sourcing
+alias zr='source ~/.zshrc'
+
+# Unix
+alias la='ls -la'
+alias ln='ln -v'
+alias mkdir='mkdir -p'
+
+# PS
+alias psa="ps aux"
+alias psag="ps aux | ag "
+
+# Bundler
+alias b="bundle"
+alias be="bundle exec"
+alias bi="bundle install"
+
 # Git shortcuts
-alias gs="git status"
+alias g="git"
+alias ga="git add"
+alias gs='git status -s'
 alias gc="git commit -m"
 alias gaa="git add -A"
+alias gb='git branch'
 alias gco="git checkout"
+alias gnb='git checkout -b'
 alias gda="git branch | grep -v 'main' | xargs git branch -D"
 alias gbd="git branch -D"
+alias gr='git rebase'
+alias gri='git rebase -i'
+alias gra='git rebase --abort'
+alias grc='git rebase --continue'
+alias gd='git diff'
+alias gl='git log -10'
 
 # Docker shortcuts
 alias dpsa="docker ps -a"
 alias dda="docker rm $(docker ps -aq)"
+
+# Ruby/Rails
+alias c="rails console"
+alias s="rspec"
+
+# Python
+alias pv="python3 --version"
+alias pc="python3"
+alias poa="poetry add"
+
+# tmux
+alias tat='tmux attach -t'
+alias tns='tmux new -s'
