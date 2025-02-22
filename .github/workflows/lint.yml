@@ -14,4 +14,4 @@ jobs:
       - name: Install ShellCheck
         run: sudo apt-get install -y shellcheck
       - name: Run ShellCheck
-        run: shellcheck system-setup.sh
+        run: shellcheck **/*.sh
