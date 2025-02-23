@@ -107,7 +107,16 @@ Aliases
 
 ## VS Code Extensions
 
+### Productivity/Style/Language Agnostic Extensions
+- **[PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** – A popular icon theme for VS Code that provides Material Design-inspired icons for files and folders.
+- **[MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - Enables real-time collaboration in VS Code, allowing developers to share their workspace and work on code together.
+- **[github.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github)** – Integrates GitHub pull requests and issues directly into VS Code, enabling code review and issue management.
+- **[github.vscode-github-actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)** – Provides tools to manage and monitor GitHub Actions workflows from within VS Code.
+
 ### Ruby
+- **[shopify.ruby-extensions-pack](https://marketplace.visualstudio.com/items?itemName=shopify.ruby-extensions-pack)** - A collection of VS Code extensions curated by Shopify to enhance the Ruby development experience.
+- **[shopify.ruby-lsp](https://marketplace.visualstudio.com/items?itemName=shopify.ruby-lsp)** - A language server for Ruby, developed by Shopify, providing features like code completion, hover information, and diagnostics.
+- **[sorbet.sorbet-vscode-extension](https://marketplace.visualstudio.com/items?itemName=sorbet.sorbet-vscode-extension)** - Integrates Sorbet, a static type checker for Ruby, into VS Code to provide type annotations and error detection.
 - **[castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)** – Provides Ruby language server support, including code completion, linting, and inline documentation.  
 - **[kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)** – Automatically inserts `end` statements in Ruby when writing conditionals, loops, and method definitions.  
 - **[bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)** – Enhances Rails development in VS Code with navigation, model completion, and schema support.  
@@ -125,6 +134,8 @@ Aliases
 - **[KevinRose.vsc-python-indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)** – Fixes indentation issues in Python, particularly when working with VS Code’s auto-formatting.  
 - **[charliermarsh.ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)** – Integrates Ruff, a fast Python linter, to catch errors and enforce coding standards.  
 
+### Go
+- **[golang.go](https://marketplace.visualstudio.com/items?itemName=golang.go)** - Official Go extension for VS Code, providing IntelliSense, debugging, linting, and other Go development tools.
 
 ## Screenshots:
 
