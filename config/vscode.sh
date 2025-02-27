@@ -13,7 +13,6 @@ code --install-extension sorbet.sorbet-vscode-extension
 code --install-extension castwide.solargraph
 code --install-extension kaiwood.endwise
 code --install-extension bung87.rails
-code --install-extension rebornix.Ruby
 
 ####### Javascript extensions
 code --install-extension dbaeumer.vscode-eslint

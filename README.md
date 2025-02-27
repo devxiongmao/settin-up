@@ -133,7 +133,6 @@ Aliases
 - **[castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)** – Provides Ruby language server support, including code completion, linting, and inline documentation.
 - **[kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)** – Automatically inserts `end` statements in Ruby when writing conditionals, loops, and method definitions.
 - **[bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)** – Enhances Rails development in VS Code with navigation, model completion, and schema support.
-- **[rebornix.Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)** – Provides basic Ruby language support, including syntax highlighting and debugging.
 
 ### JavaScript
 
