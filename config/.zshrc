@@ -88,6 +88,9 @@ source $ZSH/oh-my-zsh.sh
 #   export EDITOR='nvim'
 # fi
 
+export EDITOR="code --wait"
+export VISUAL="code --wait"
+
 # Compilation flags
 # export ARCHFLAGS="-arch $(uname -m)"
 
