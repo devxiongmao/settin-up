@@ -12,7 +12,7 @@ I use either VS Code, or Vim for development. This repo configures both the way 
 
 The plugins, dotfiles, formulae, etc contained in this repo and meant to enhance your efficiency when developing using these languages.
 
-## Easy as 1... 2... 3. That's how easy!
+## Easy as 1... 2... 3!
 
 If you are not Devxiongmao (Jon Psaila), be sure to update the config/git_config.sh file with your git config information.
 
@@ -35,7 +35,7 @@ I've included two terminal themes within this repo: `trafalgar` and `devxiongmao
 1. In the iTerm2 menu bar, go `Profiles` -> `Open Profiles` -> `Edit Profiles`
 2. On the `Profiles` tab, select `Colors`, then at the bottom of the pane, open the select that is labelled `Color Presets`
 3. Click `Import`, then navigate to this directory and import either the `trafalgar.itermcolors` or `devxiongmao.itermcolors` file depending on your preference
-4. Once imported, open the `Color Presents` selector again, and you should see the theme present. Click it to select it.
+4. Once imported, open the `Color Presets` selector again, and you should see the theme present. Click it to select it.
 5. Admire your handiwork and marvel at your beautiful terminal
 
 ## What's Included?
