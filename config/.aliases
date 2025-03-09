@@ -28,8 +28,15 @@ alias gd='git diff'
 alias gl='git log -10'
 
 # Docker shortcuts
+alias di="docker image"
+alias dim="docker images"
+alias dcu="docker compose up"
+alias dcd="docker compose down"
+alias dl="docker logs -f"
+alias dv="docker volume"
 alias dpsa="docker ps -a"
 alias dda="docker rm $(docker ps -aq)"
+alias ddai="docker rmi $(docker images -aq)"
 
 # Ruby/Rails
 alias c="rails console"
