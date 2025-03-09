@@ -99,8 +99,15 @@ Aliases
   - `gd` = 'git diff'
   - `gl` = 'git log -10'
 - docker
+  - `di` = "docker image"
+  - `dim` = "docker images"
+  - `dcu` = "docker compose up"
+  - `dcd` = "docker compose down"
+  - `dl` = "docker logs -f"
+  - `dv` = "docker volume"
   - `dpsa` = "docker ps -a"
   - `dda` = "docker rm $(docker ps -aq)"
+  - `ddai` = "docker rmi $(docker images -aq)"
 - Ruby/Rails
   - `c` = "rails console"
   - `s` = "rspec"
