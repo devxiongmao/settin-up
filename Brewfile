@@ -28,7 +28,7 @@ brew "ruby-build"
 brew "thefuck"
 
 # The one, the only, REDIS!
-brew redis
+brew "redis"
 
 # Cask applications (GUI apps)
 cask "bitwarden"
