@@ -38,6 +38,16 @@ I've included two terminal themes within this repo: `trafalgar` and `devxiongmao
 4. Once imported, open the `Color Presets` selector again, and you should see the theme present. Click it to select it.
 5. Admire your handiwork and marvel at your beautiful terminal
 
+## Install Chrome Extensions (Optional)
+
+I enjoy a collection of chrome extensions that help me do web development and improve my overall web-surfin' experience!
+
+1. [Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb?pli=1)
+2. [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+3. [Redux Dev Tools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+4. [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
+5. [Loom Video Recordings](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb)
+
 ## What's Included?
 
 App installs
