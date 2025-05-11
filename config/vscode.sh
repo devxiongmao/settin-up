@@ -5,6 +5,7 @@ code --install-extension PKief.material-icon-theme
 code --install-extension MS-vsliveshare.vsliveshare
 code --install-extension github.vscode-pull-request-github
 code --install-extension github.vscode-github-actions
+code --install-extension vstirbu.vscode-mermaid-preview
 
 ####### Ruby extensions
 code --install-extension shopify.ruby-extensions-pack
