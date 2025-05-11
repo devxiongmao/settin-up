@@ -141,6 +141,7 @@ Aliases
 - **[MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - Enables real-time collaboration in VS Code, allowing developers to share their workspace and work on code together.
 - **[github.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github)** – Integrates GitHub pull requests and issues directly into VS Code, enabling code review and issue management.
 - **[github.vscode-github-actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)** – Provides tools to manage and monitor GitHub Actions workflows from within VS Code.
+- **[vstirbu.vscode-mermaid-preview](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview)** – Provides tools to generate, visualize and manage mermaid diagrams within VS Code.
 
 ### Ruby
 
