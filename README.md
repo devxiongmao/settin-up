@@ -50,7 +50,7 @@ I enjoy a collection of chrome extensions that help me do web development and im
 
 ## What's Included?
 
-App installs
+App/tool installs
 
 - [bitwarden](https://bitwarden.com/)
 - [discord](https://discord.com/)
@@ -61,12 +61,14 @@ App installs
 - [caffeine](https://www.caffeine-app.net/)
 - [maccy](https://maccy.app/)
 - [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
+- [Redis](https://redis.io/)
 
 Command Line Tools
 
 - [Git configuration](config/git_config.sh)
 - [The silver searcher](https://github.com/ggreer/the_silver_searcher), a lighting fast code searching tool similar to `ack`
 - [tmux](https://thoughtbot.com/blog/a-tmux-crash-course) for session management
+- [act](https://github.com/nektos/act) for running github actions locally 🚀
 
 Heavily Customized Terminal
 

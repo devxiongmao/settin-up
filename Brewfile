@@ -30,6 +30,9 @@ brew "thefuck"
 # The one, the only, REDIS!
 brew "redis"
 
+# Run github workflows locally before pushing
+brew "act"
+
 # Cask applications (GUI apps)
 cask "bitwarden"
 cask "discord"
