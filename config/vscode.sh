@@ -6,6 +6,7 @@ code --install-extension MS-vsliveshare.vsliveshare
 code --install-extension github.vscode-pull-request-github
 code --install-extension github.vscode-github-actions
 code --install-extension vstirbu.vscode-mermaid-preview
+code --install-extension ms-vscode.makefile-tools
 
 ####### Ruby extensions
 code --install-extension shopify.ruby-extensions-pack
