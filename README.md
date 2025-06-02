@@ -57,6 +57,7 @@ App/tool installs
 - [docker](https://www.docker.com/)
 - [iterm2](https://iterm2.com/downloads.html)
 - [visual-studio-code](https://code.visualstudio.com/)
+- [cursor](https://www.cursor.com/en)
 - [libreoffice](https://www.libreoffice.org/)
 - [caffeine](https://www.caffeine-app.net/)
 - [maccy](https://maccy.app/)
