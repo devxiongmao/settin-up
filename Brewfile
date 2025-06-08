@@ -33,6 +33,9 @@ brew "redis"
 # Run github workflows locally before pushing
 brew "act"
 
+# Markdown spell checker
+brew "cspell"
+
 # Cask applications (GUI apps)
 cask "bitwarden"
 cask "discord"
