@@ -70,6 +70,7 @@ Command Line Tools
 - [The silver searcher](https://github.com/ggreer/the_silver_searcher), a lighting fast code searching tool similar to `ack`
 - [tmux](https://thoughtbot.com/blog/a-tmux-crash-course) for session management
 - [act](https://github.com/nektos/act) for running github actions locally 🚀
+- [cspell](https://cspell.org/), a spell checker for code
 
 Heavily Customized Terminal
 
