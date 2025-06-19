@@ -89,6 +89,8 @@ Aliases
 
 - Sourcing
   - `zr` = "source ~/.zshrc"
+  - `va` = "vim ~/.aliases"
+  - `vz` = "vim ~/.zshrc"
 - Unix
   - `la` = "ls -la"
   - `ln` = "ln -v"
@@ -112,6 +114,7 @@ Aliases
   - `grc` = 'git rebase --continue'
   - `gd` = 'git diff'
   - `gl` = 'git log -10'
+  - `gpo` = 'git pull origin'
 - docker
   - `di` = "docker image"
   - `dim` = "docker images"
