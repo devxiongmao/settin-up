@@ -1,5 +1,7 @@
 # Sourcing
 alias zr='source ~/.zshrc'
+alias va='vim ~/.aliases'
+alias vz='vim ~/.zshrc'
 
 # Unix
 alias la='ls -la'
@@ -26,6 +28,7 @@ alias gra='git rebase --abort'
 alias grc='git rebase --continue'
 alias gd='git diff'
 alias gl='git log -10'
+alias gpo='git pull origin'
 
 # Docker shortcuts
 alias di="docker image"
@@ -35,8 +38,12 @@ alias dcd="docker compose down"
 alias dl="docker logs -f"
 alias dv="docker volume"
 alias dpsa="docker ps -a"
-alias dda="docker rm $(docker ps -aq)"
-alias ddai="docker rmi $(docker images -aq)"
+dda() {
+  docker rm $(docker ps -aq)
+}
+ddai() {
+  docker rmi $(docker images -aq)
+}
 
 # Ruby/Rails
 alias c="rails console"
