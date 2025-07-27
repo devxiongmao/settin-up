@@ -7,12 +7,11 @@ code --install-extension github.vscode-pull-request-github
 code --install-extension github.vscode-github-actions
 code --install-extension vstirbu.vscode-mermaid-preview
 code --install-extension ms-vscode.makefile-tools
+code --install-extension eamodio.gitlens
 
 ####### Ruby extensions
 code --install-extension shopify.ruby-extensions-pack
 code --install-extension shopify.ruby-lsp
-code --install-extension sorbet.sorbet-vscode-extension
-code --install-extension castwide.solargraph
 code --install-extension kaiwood.endwise
 code --install-extension bung87.rails
 
