@@ -150,13 +150,12 @@ Aliases
 - **[github.vscode-github-actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)** – Provides tools to manage and monitor GitHub Actions workflows from within VS Code.
 - **[vstirbu.vscode-mermaid-preview](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview)** – Provides tools to generate, visualize and manage mermaid diagrams within VS Code.
 - **[ms-vscode.makefile-tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)** – Provides convenient commands to build, debug, and run your targets as well as provides IntelliSense for Makefile projects.
+- **[eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** - Visualize code authorship, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands
 
 ### Ruby
 
 - **[shopify.ruby-extensions-pack](https://marketplace.visualstudio.com/items?itemName=shopify.ruby-extensions-pack)** - A collection of VS Code extensions curated by Shopify to enhance the Ruby development experience.
 - **[shopify.ruby-lsp](https://marketplace.visualstudio.com/items?itemName=shopify.ruby-lsp)** - A language server for Ruby, developed by Shopify, providing features like code completion, hover information, and diagnostics.
-- **[sorbet.sorbet-vscode-extension](https://marketplace.visualstudio.com/items?itemName=sorbet.sorbet-vscode-extension)** - Integrates Sorbet, a static type checker for Ruby, into VS Code to provide type annotations and error detection.
-- **[castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)** – Provides Ruby language server support, including code completion, linting, and inline documentation.
 - **[kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)** – Automatically inserts `end` statements in Ruby when writing conditionals, loops, and method definitions.
 - **[bung87.rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)** – Enhances Rails development in VS Code with navigation, model completion, and schema support.
 
