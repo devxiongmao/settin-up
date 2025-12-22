@@ -47,6 +47,7 @@ I enjoy a collection of chrome extensions that help me do web development and im
 3. [Redux Dev Tools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 4. [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 5. [Loom Video Recordings](https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb)
+6. [Apollo Client DevTools - GraphQL](https://chromewebstore.google.com/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)
 
 ## What's Included?
 
@@ -63,6 +64,7 @@ App/tool installs
 - [maccy](https://maccy.app/)
 - [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - [Redis](https://redis.io/)
+- [Claude Code](https://code.claude.com/docs/en/overview)
 
 Command Line Tools
 
@@ -70,7 +72,6 @@ Command Line Tools
 - [The silver searcher](https://github.com/ggreer/the_silver_searcher), a lighting fast code searching tool similar to `ack`
 - [tmux](https://thoughtbot.com/blog/a-tmux-crash-course) for session management
 - [act](https://github.com/nektos/act) for running github actions locally 🚀
-- [cspell](https://cspell.org/), a spell checker for code
 
 Heavily Customized Terminal
 
