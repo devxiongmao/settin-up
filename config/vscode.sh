@@ -8,6 +8,7 @@ code --install-extension github.vscode-github-actions
 code --install-extension vstirbu.vscode-mermaid-preview
 code --install-extension ms-vscode.makefile-tools
 code --install-extension eamodio.gitlens
+code --install-extension anthropic.claude-code
 
 ####### Ruby extensions
 code --install-extension shopify.ruby-extensions-pack
